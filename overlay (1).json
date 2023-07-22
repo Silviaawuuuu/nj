@@ -1,0 +1,30 @@
+{
+  "contact": "",
+"templates": [
+{
+"name": "Exactly",
+"sources": [
+"https://imgur.com/a/sCURmUm"
+],
+"x": 601,
+"y": 414
+},
+{
+"name": "Poetico",
+"sources": [
+"https://imgur.com/a/sCURmUm"
+],
+"x": 601,
+"y": 414
+},
+{
+"name": "Wilber",
+"sources": [
+"https://imgur.com/a/sCURmUm"
+],
+"x": 601,
+"y": 414
+}
+],
+"whitelist": [],
+"blacklist": []
